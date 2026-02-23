@@ -3165,7 +3165,7 @@
 				)
 			)
 		)
-		(property "Value" "1000n"
+		(property "Value" "100n"
 			(at 157.48 86.36 90)
 			(effects
 				(font
@@ -3234,7 +3234,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50K"
+		(property "Value" "50k"
 			(at 149.86 36.8299 0)
 			(effects
 				(font
@@ -3797,7 +3797,7 @@
 				)
 			)
 		)
-		(property "Value" "1000n"
+		(property "Value" "100n"
 			(at 152.4 129.54 90)
 			(effects
 				(font

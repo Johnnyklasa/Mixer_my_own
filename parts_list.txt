@@ -1,0 +1,4 @@
+TL072CP *5 https://www.digikey.com/en/models/277421?tab=ultralibrarian
+C1206C104KARACTU *10 https://www.snapeda.com/parts/C1206C104KARACTU/Kemet/view-part/
+RNCF0805BTE500K *5 https://www.snapeda.com/parts/RNCF0805BTE500K/Stackpole%20Electronics%20Inc/view-part/?ref=search&t=RNCF0805BTE500K&ab_test_case=b
+RT0603BRD0750KL *2 https://www.snapeda.com/parts/RT0603BRD0750KL/Yageo/view-part/?ref=search&t=RT0603BRD0750KL%20&ab_test_case=b

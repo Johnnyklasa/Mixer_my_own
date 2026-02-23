@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Simulation_main.kicad_pro",
+    "filename": "Schematics.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -560,12 +560,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -597,14 +609,6 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 4,
-      "workbook_filename": "Simulation_main.wbk"
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -619,7 +623,7 @@
   },
   "sheets": [
     [
-      "d6ebd4f8-f496-44e6-bc70-81726f40d5dd",
+      "112940be-2779-4630-a719-b248f7061ba8",
       "Root"
     ]
   ],
