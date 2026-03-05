@@ -1,0 +1,37 @@
+Added Component: Designator=C1(CAPC1608X95N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0603B104K500CT/Walsin+Technologies/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Walsin Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "603-2 WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0603B104K500CT/Walsin+Technologies/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(DIP794W45P254L1969H508Q14)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TL074ACN/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TL074ACN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TL074ACN/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(DIP794W45P254L1969H508Q14)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TL074ACN/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TL074ACN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TL074ACN/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Power - Pin=C1-2
+Added Pin To Net: NetName=Power - Pin=J1-2
+Added Pin To Net: NetName=Power - Pin=R2-2
+Added Pin To Net: NetName=Power - Pin=U?-11
+Added Net: Name=Power -
+Added Pin To Net: NetName=Power+ Pin=C1-1
+Added Pin To Net: NetName=Power+ Pin=J1-1
+Added Pin To Net: NetName=Power+ Pin=R1-1
+Added Pin To Net: NetName=Power+ Pin=U?-4
+Added Pin To Net: NetName=Power+ Pin=U?-4
+Added Net: Name=Power+
+Added Member To Class: ClassName=Schemat Member=Component C1 100N
+Added Member To Class: ClassName=Schemat Member=Component U? TL074ACN
+Added Member To Class: ClassName=Schemat Member=Component U? TL074ACN
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

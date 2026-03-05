@@ -1,0 +1,83 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Add component: Footprint Not Found CAPPRD500W60D1000H2000
+Added Component: Designator=C5(CAPC4532X140N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1812C104J1GACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4532 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(JST_S2B-XH-A-1(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-XH-A-1(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-XH-A-1(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-XH-A-1(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(JST_S2B-XH-A-1(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-XH-A-1(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-XH-A-1(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-XH-A-1(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(JST_S2B-XH-A-1(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-XH-A-1(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-XH-A-1(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-XH-A-1(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(JST_S2B-XH-A-1(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-XH-A-1(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-XH-A-1(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-XH-A-1(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(JST_S2B-XH-A-1(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-XH-A-1(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-XH-A-1(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-XH-A-1(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608X60N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WR06X1004FTL/Techno/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Walsin Technology Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WR06X1004FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WR06X1004FTL/Techno/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C4-N
+Added Pin To Net: NetName=BIAS Pin=R1-2
+Added Pin To Net: NetName=BIAS Pin=R2-1
+Added Pin To Net: NetName=BIAS Pin=R3-2
+Added Net: Name=BIAS
+Added Pin To Net: NetName=Buffer_Feed Pin=U?-1
+Added Pin To Net: NetName=Buffer_Feed Pin=U?-2
+Added Net: Name=Buffer_Feed
+Added Pin To Net: NetName=IN1 Pin=C5-1
+Added Pin To Net: NetName=IN1 Pin=J2-1
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=J3-1
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=J4-1
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=J5-1
+Added Net: Name=IN4
+Added Pin To Net: NetName=IN5 Pin=J6-1
+Added Net: Name=IN5
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R3-1
+Added Pin To Net: NetName=NetC5_2 Pin=U?-3
+Added Net: Name=NetC5_2
+Add Class Member: Failed to add class member : Component C4 10u
+Added Member To Class: ClassName=Schemat Member=Component C5 100n
+Added Member To Class: ClassName=Schemat Member=Component J2 S2B-XH-A-1(LF)(SN)
+Added Member To Class: ClassName=Schemat Member=Component J3 S2B-XH-A-1(LF)(SN)
+Added Member To Class: ClassName=Schemat Member=Component J4 S2B-XH-A-1(LF)(SN)
+Added Member To Class: ClassName=Schemat Member=Component J5 S2B-XH-A-1(LF)(SN)
+Added Member To Class: ClassName=Schemat Member=Component J6 S2B-XH-A-1(LF)(SN)
+Added Member To Class: ClassName=Schemat Member=Component R3 1MEG
+Added Member To Class: ClassName=Schemat Member=Component U? TL074ACN
