@@ -1,0 +1,48 @@
+Removed Member From Class: ClassName=Schemat Member=C?
+Added Component: Designator=C4(CAPC4532X140N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1812C104J1GACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4532 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC4532X140N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1812C104J1GACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4532 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1608X60N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WR06X1004FTL/Techno/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Walsin Technology Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WR06X1004FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WR06X1004FTL/Techno/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(DIP794W45P254L1969H508Q14)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TL074ACN/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TL074ACN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TL074ACN/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Power - Pin=C4-1
+Added Pin To Net: NetName=IN1 Pin=C7-1
+Added Pin To Net: NetName=BIAS Pin=R5-2
+Added Pin To Net: NetName=Buffer_Feed Pin=U3-1
+Added Pin To Net: NetName=Buffer_Feed Pin=U3-2
+Added Pin To Net: NetName=Power - Pin=U3-11
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U3-4
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R5-1
+Added Pin To Net: NetName=NetC7_2 Pin=U3-3
+Added Net: Name=NetC7_2
+Added Member To Class: ClassName=Schemat Member=Component C2 100N
+Added Member To Class: ClassName=Schemat Member=Component C3 100N
+Added Member To Class: ClassName=Schemat Member=Component C4 100N
+Added Member To Class: ClassName=Schemat Member=Component C7 100n
+Added Member To Class: ClassName=Schemat Member=Component R5 1MEG
+Added Member To Class: ClassName=Schemat Member=Component U3 TL074ACN

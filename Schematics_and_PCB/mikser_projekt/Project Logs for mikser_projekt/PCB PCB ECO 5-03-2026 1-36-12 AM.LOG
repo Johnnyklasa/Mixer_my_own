@@ -1,0 +1,45 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Add component: Footprint Not Found CAPC1608X95N
+Added Component: Designator=C6(CAPC4532X140N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1812C104J1GACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4532 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608X60N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WR06X1004FTL/Techno/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Walsin Technology Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WR06X1004FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WR06X1004FTL/Techno/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(DIP794W45P254L1969H508Q14)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TL074ACN/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TL074ACN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TL074ACN/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Added Pin To Net: NetName=Power - Pin=J2-2
+Added Pin To Net: NetName=Power - Pin=J3-2
+Added Pin To Net: NetName=Power - Pin=J4-2
+Added Pin To Net: NetName=Power - Pin=J5-2
+Added Pin To Net: NetName=Power - Pin=J6-2
+Added Pin To Net: NetName=BIAS Pin=R4-2
+Added Pin To Net: NetName=Buffer_Feed Pin=U2-1
+Added Pin To Net: NetName=Buffer_Feed Pin=U2-2
+Added Pin To Net: NetName=Power+ Pin=U2-4
+Added Pin To Net: NetName=Power - Pin=U2-11
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R4-1
+Added Pin To Net: NetName=NetC6_2 Pin=U2-3
+Added Net: Name=NetC6_2
+Add Class Member: Failed to add class member : Component C3 100N
+Added Member To Class: ClassName=Schemat Member=Component C6 100n
+Added Member To Class: ClassName=Schemat Member=Component R4 1MEG
+Added Member To Class: ClassName=Schemat Member=Component U2 TL074ACN

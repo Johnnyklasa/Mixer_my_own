@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=Power+ Pin=C4-2
+Added Pin To Net: NetName=Power+ Pin=U3-4
+Added Member To Class: ClassName=Schemat Member=Component C1 1u
+Added Member To Class: ClassName=Schemat Member=Component C3 100N
+Added Member To Class: ClassName=Schemat Member=Component C4 100N
+Added Member To Class: ClassName=Schemat Member=Component R1 10K
+Added Member To Class: ClassName=Schemat Member=Component R2 10K
+Added Member To Class: ClassName=Schemat Member=Component U2 TL074ACN
+Added Member To Class: ClassName=Schemat Member=Component U3 TL074ACN

@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=IN1 Pin=C7-1
+Removed Pin From Net: NetName=NetC6_2 Pin=U2-3
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Added Component: Designator=C7(CAPC4532X140N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1812C104J1GACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4532 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC4532X140N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1812C104J1GACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4532 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1812C104J1GACAUTO/Kemet/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1608X60N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WR06X1004FTL/Techno/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Walsin Technology Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WR06X1004FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WR06X1004FTL/Techno/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1608X60N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WR06X1004FTL/Techno/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Walsin Technology Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WR06X1004FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WR06X1004FTL/Techno/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IN2 Pin=C6-1
+Added Pin To Net: NetName=IN3 Pin=C7-1
+Added Pin To Net: NetName=IN4 Pin=C8-1
+Added Pin To Net: NetName=IN5 Pin=C9-1
+Added Pin To Net: NetName=BIAS Pin=R5-2
+Added Pin To Net: NetName=BIAS Pin=R6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U1-10
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC9_2
+Added Pin To Net: NetName=Buffer_Feed1 Pin=U1-1
+Added Pin To Net: NetName=Buffer_Feed1 Pin=U1-2
+Added Net: Name=Buffer_Feed1
+Added Pin To Net: NetName=Buffer_Feed2 Pin=U1-8
+Added Pin To Net: NetName=Buffer_Feed2 Pin=U1-9
+Added Net: Name=Buffer_Feed2
+Added Pin To Net: NetName=Buffer_Feed3 Pin=U2-1
+Added Pin To Net: NetName=Buffer_Feed3 Pin=U2-2
+Added Net: Name=Buffer_Feed3
+Added Pin To Net: NetName=Buffer_Feed4 Pin=U2-8
+Added Pin To Net: NetName=Buffer_Feed4 Pin=U2-9
+Added Net: Name=Buffer_Feed4
+Added Pin To Net: NetName=Buffer_Feed5 Pin=U3-1
+Added Pin To Net: NetName=Buffer_Feed5 Pin=U3-2
+Added Net: Name=Buffer_Feed5
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R5-1
+Added Pin To Net: NetName=NetC7_2 Pin=U2-3
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R6-1
+Added Pin To Net: NetName=NetC8_2 Pin=U2-10
+Added Net: Name=NetC8_2
+Added Member To Class: ClassName=Schemat Member=Component C1 1u
+Added Member To Class: ClassName=Schemat Member=Component C2 100N
+Added Member To Class: ClassName=Schemat Member=Component C3 100N
+Added Member To Class: ClassName=Schemat Member=Component C4 100N
+Added Member To Class: ClassName=Schemat Member=Component C7 100n
+Added Member To Class: ClassName=Schemat Member=Component C8 100n
+Added Member To Class: ClassName=Schemat Member=Component C9 100n
+Added Member To Class: ClassName=Schemat Member=Component R1 10K
+Added Member To Class: ClassName=Schemat Member=Component R2 10K
+Added Member To Class: ClassName=Schemat Member=Component R5 1MEG
+Added Member To Class: ClassName=Schemat Member=Component R6 1MEG
+Added Member To Class: ClassName=Schemat Member=Component R7 1MEG
+Added Member To Class: ClassName=Schemat Member=Component U2 TL074ACN
+Added Member To Class: ClassName=Schemat Member=Component U3 TL074ACN
